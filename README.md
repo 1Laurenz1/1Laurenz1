@@ -28,7 +28,7 @@ Currently working on Telegram bots, backend services, and improving my system pr
 
 ## 🚀 Featured Projects
 - [Telegram Bots](https://github.com/...) — bots with solid architecture and database integration  
-- [Automation Scripts](https://github.com/...) — automation with Bash and Python  
+- [Automation Scripts](https://github.com/1Laurenz1/autotest-bot) — Software that automates test passing with Python
 - [Learning C](https://github.com/...) — data structures and low-level programming practice  
 
 ---
