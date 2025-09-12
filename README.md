@@ -1,16 +1,21 @@
-# Hi there, my name is Danyl!👋
+# Hi, I'm Danyl 👋
 
-I am a **Python developer and DevOps enthusiast** passionate about building scalable solutions, automation, and exploring low-level programming (C, Rust).  
-Currently working on Telegram bots, backend services, and improving my system programming skills.
+Python developer with experience in **backend services, Telegram bots, and system programming**.  
+Skilled in **databases, DevOps tools, and low-level programming (C, Rust)**.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, Rust, C (Base)
-- **Databases**: PostgreSQL, MySQL, SQLite
-- **DevOps & Tools**: Linux, Bash, Docker, CI/CD pipelines
-- **Other**: REST APIs, Telegram Bot API, software architecture
 
+### Core
+- **Languages:** Python, Rust, C (base)  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **DevOps & Tools:** Linux, Bash, Docker, CI/CD pipelines  
+- **Other:** REST APIs, Telegram Bot API, software architecture  
+
+### Learning
+- Advanced C & Rust for systems programming  
+- Low-level performance optimization  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -21,24 +26,26 @@ Currently working on Telegram bots, backend services, and improving my system pr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white)
-
 
 ---
 
-## 🚀 Featured Projects
-- [Telegram Bots](https://github.com/...) — bots with solid architecture and database integration  
-- [Automation Scripts](https://github.com/1Laurenz1/autotest-bot) — Software that automates test passing with Python
-- [Learning C](https://github.com/...) — data structures and low-level programming practice  
+## Featured Projects
+
+- **Telegram Bots** — end-to-end bots with database integration, async processing, and Docker deployment  
+- **Automation Script** — Python scripts that automate routine tasks and testing workflows  
+- **Learning Rust** — data structures and low-level programming practice
+
+*(Project links coming soon!)*
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=1Laurenz1&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Laurenz1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Laurenz1&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1Laurenz1&show_icons=true&theme=radical)
 
 ---
 
-## 📬 Contact
-- Telegram: [@Laurenz5](https://t.me/Laurenz5)  
+## Contact
+
+- Telegram: [@Laurenz5](https://t.me/Laurenz5)
 - Email: **test@email.com**
