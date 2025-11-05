@@ -1,51 +1,47 @@
-# Hi, I'm Danyl 👋
+Hi, I'm Danyl 👋
+Beginner Python developer, currently learning and actively growing in programming.
+Focusing on backend development, Telegram bots, and learning systems programming basics.
 
-Python developer with experience in **backend services, Telegram bots, and system programming**.  
-Skilled in **databases, DevOps tools, and low-level programming (C, Rust)**.
+🛠️ Tech Stack
+Core
+Languages: Python (main), starting to learn C and Rust
 
----
+Databases: PostgreSQL, MySQL
 
-## 🛠️ Tech Stack
+Tools: Linux, Git, REST API
 
-### Core
-- **Languages:** Python, Rust, C (base)  
-- **Databases:** PostgreSQL, MySQL, SQLite  
-- **DevOps & Tools:** Linux, Bash, Docker, CI/CD pipelines  
-- **Other:** REST APIs, Telegram Bot API, software architecture  
+Other: Telegram Bot API, asynchronous programming
 
-### Learning
-- Advanced C & Rust for systems programming  
-- Low-level performance optimization  
+Currently Learning
+Python backend development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Systems programming with C and Rust
 
----
+Code architecture and optimization
 
-## Featured Projects
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 
-- **Telegram Bots** — end-to-end bots with database integration, async processing, and Docker deployment  
-- **Automation Script** — Python scripts that automate routine tasks and testing workflows  
-- **Learning Rust** — data structures and low-level programming practice
+🔥 My Projects
+Telegram bots - creating functional bots with database integration
 
-*(Project links coming soon!)*
+Learning projects - practicing clean and efficient code
 
----
+Automation - writing scripts to automate routine tasks
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Laurenz1&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1Laurenz1&show_icons=true&theme=radical)
+(Project links coming soon!)
 
----
+📊 GitHub Stats
+https://github-readme-stats.vercel.app/api/top-langs/?username=1Laurenz1&layout=compact&theme=radical
+https://github-readme-stats.vercel.app/api?username=1Laurenz1&show_icons=true&theme=radical
 
-## Contact
+📞 Contact
+Telegram: @Laurenz5
 
-- Telegram: [@Laurenz5](https://t.me/Laurenz5)
-- Email: **test@email.com**
+Email: test@email.com
+
+P.S. Always open to new connections and interesting projects! Learning, growing, and ready for challenges
