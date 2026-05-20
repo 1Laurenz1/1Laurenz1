@@ -8,7 +8,7 @@
 
 Backend developer with production experience in high‑load parsers, real‑time notification systems, and MITM‑service infrastructure.
 
-Currently doubling down on **Rust** — moving performance‑critical pieces from Python to Rust. Also exploring frontend & design to close the full‑cycle loop.
+Currently doubling down on **Rust** - moving performance‑critical pieces from Python to Rust. Also exploring frontend & design to close the full‑cycle loop.
 
 ---
 
@@ -17,7 +17,7 @@ Currently doubling down on **Rust** — moving performance‑critical pieces fro
 | Area | Tools |
 |------|-------|
 | **Languages** | Python (core), Rust (in production for hot paths), C (basics) |
-| **Databases** | PostgreSQL, MySQL, SQLite — schema design, indexing, query optimization, transactions |
+| **Databases** | PostgreSQL, MySQL, SQLite - schema design, indexing, query optimization, transactions |
 | **Async & Networking** | asyncio, aiohttp, websockets, low‑level socket tuning |
 | **Infrastructure** | Linux, Docker, Git, distributed (multi‑server) setups |
 | **Other** | Telegram Bot API, REST, MITM concepts (defensive/backend side) |
@@ -44,7 +44,7 @@ Currently doubling down on **Rust** — moving performance‑critical pieces fro
 
 - MITM‑style concept — two users connected, third party can listen / talk / kick
 - **My part:** backend, session management, security logic, data routing  
-  (not the MITM attack itself — that's a different domain)
+  (not the MITM attack itself - that's a different domain)
 
 *Stack: Python, async networking, secure session handling*
 
@@ -54,8 +54,8 @@ Currently doubling down on **Rust** — moving performance‑critical pieces fro
 
 ## Currently Learning
 
-- **Rust** — building backend components, plan to replace Python hotspots
-- Frontend basics + design — for better team collaboration
+- **Rust** - building backend components, plan to replace Python hotspots
+- Frontend basics + design - for better team collaboration
 
 ---
 
