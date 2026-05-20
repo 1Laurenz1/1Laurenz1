@@ -19,7 +19,7 @@ Currently doubling down on **Rust** - moving performance‑critical pieces from 
 | **Languages** | Python (core), Rust (in production for hot paths), C (basics) |
 | **Databases** | PostgreSQL, MySQL, SQLite - schema design, indexing, query optimization, transactions |
 | **Async & Networking** | asyncio, aiohttp, websockets, low‑level socket tuning |
-| **Infrastructure** | Linux, Docker, Git, distributed (multi‑server) setups |
+| **Infrastructure** | Docker, Git, distributed (multi‑server) setups |
 | **Other** | Telegram Bot API, REST, MITM concepts (defensive/backend side) |
 
 ---
@@ -62,5 +62,6 @@ Currently doubling down on **Rust** - moving performance‑critical pieces from 
 ## Contact
 
 - Telegram: **@Laurenz5**
+- Discord: **@1laurenz1**
 
 Open for challenging backend work. No bullshit.
