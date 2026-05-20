@@ -1,37 +1,66 @@
-👋 **Hi, I'm Danyl**
+# Danyl | Backend Engineer
 
-**Python Developer** with solid experience in **backend services** and **Telegram bots**.
-Currently expanding into **systems programming** and **performance optimization**.
+> Python · Rust · PostgreSQL · Async Systems
 
-🛠️ **Tech Stack**
+---
 
-**Core Expertise**
-**Languages:** Python, C (learning), Rust (learning)
-**Databases:** PostgreSQL, MySQL, SQLite
-**Backend:** REST APIs, async programming, system architecture
-**Tools:** Linux, Git, Docker, Telegram Bot API
+## About
 
-**Currently Leveling Up**
+Backend developer with production experience in high‑load parsers, real‑time notification systems, and MITM‑service infrastructure.
 
-Advanced **systems programming** in **C** and **Rust**
+Currently doubling down on **Rust** — moving performance‑critical pieces from Python to Rust. Also exploring frontend & design to close the full‑cycle loop.
 
-**Low-level optimization** and **performance tuning**
+---
 
-**Scalable backend architectures**
+## Tech Stack
 
-🔥 **Featured Projects**
+| Area | Tools |
+|------|-------|
+| **Languages** | Python (core), Rust (in production for hot paths), C (basics) |
+| **Databases** | PostgreSQL, MySQL, SQLite — schema design, indexing, query optimization, transactions |
+| **Async & Networking** | asyncio, aiohttp, websockets, low‑level socket tuning |
+| **Infrastructure** | Linux, Docker, Git, distributed (multi‑server) setups |
+| **Other** | Telegram Bot API, REST, MITM concepts (defensive/backend side) |
 
-**Production Telegram Bots** – end-to-end solutions with **database integration** and **async processing**
+---
 
-**Backend Services** – **scalable APIs** and **system architecture**
+## Projects
 
-**System Tools** – **performance-oriented utilities** and **automation scripts**
+### Pricechemy
+**Real‑time marketplace monitor** — Telegram‑based mini‑app.
 
-(Project details available on request)
+- User sets a filter: e.g., *"iPhone, €10–300"*
+- System scans **10+ dedicated European servers** (different countries)
+- Detects *only new* listings → instant push notification
 
-📞 **Contact**
-**Telegram:** @Laurenz5
-**Email:** available upon request
+*Stack: Python async, PostgreSQL, multi‑server coordination, Telegram Bot API*
 
-**Open to challenging projects** and **technical collaborations.**
-**Always learning, always shipping 🚀**
+> 📌 More detailed project info available upon request.
+
+---
+
+### Forgotten
+**Infrastructure for chat‑roulette audio interception** (nekto me, cahtruletka, etc.).
+
+- MITM‑style concept — two users connected, third party can listen / talk / kick
+- **My part:** backend, session management, security logic, data routing  
+  (not the MITM attack itself — that's a different domain)
+
+*Stack: Python, async networking, secure session handling*
+
+> 📌 More detailed project info available upon request.
+
+---
+
+## Currently Learning
+
+- **Rust** — building backend components, plan to replace Python hotspots
+- Frontend basics + design — for better team collaboration
+
+---
+
+## Contact
+
+- Telegram: **@Laurenz5**
+
+Open for challenging backend work. No bullshit.
